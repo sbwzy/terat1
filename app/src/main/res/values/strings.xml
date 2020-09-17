@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">terat1</string>
+    <string name="modify">修改</string>
+    <string name="input">(名字输入栏)</string>
+    <string name="output">请输入要显示的字符</string>
+    <string name="enlarge">放大</string>
+    <string name="haha">哈哈</string>
+</resources>
